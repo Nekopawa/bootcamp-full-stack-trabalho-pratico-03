@@ -1,0 +1,17 @@
+.bar {
+  height: 20px;
+  display: flex;
+  float: left;
+}
+
+.discountINSS {
+  background-color: #e67e22;
+}
+
+.discountIRPF {
+  background-color: #c0392b;
+}
+
+.netSalary {
+  background-color: #16a085;
+}

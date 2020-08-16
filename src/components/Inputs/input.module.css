@@ -1,0 +1,18 @@
+.description {
+  color: rgb(170, 170, 170);
+  font-weight: 400;
+  font-size: 13px;
+  margin: 0;
+}
+
+.inputSalary {
+  padding: 10px;
+}
+
+.readonly {
+  font-weight: bold;
+}
+
+input {
+  border-bottom: 2px solid lightgray !important;
+}
